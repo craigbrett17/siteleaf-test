@@ -7,4 +7,5 @@ Please contact us with any requests you may have.
 
 <form action="mailto:craigbrett17@aol.com" method="post">
 <textarea id="comments"></textarea>
+<input type="submit" value="Send me an e-mail" />
 </form>
