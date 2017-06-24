@@ -17,6 +17,5 @@ url: http://craigbrett17/siteleaf-test.github.io
 twitter_username: nalagaric
 github_username: craigbrett17
 markdown: kramdown
-theme: minima
 gems:
 - jekyll-feed
