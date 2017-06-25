@@ -1,6 +1,7 @@
 ---
 title: Contact us
-date: 2017-06-24 21:38:00 Z
+permalink: /contact/
+layout: default
 ---
 
 E-mail us at someone@example.com 

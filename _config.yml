@@ -1,17 +1,7 @@
 ---
 title: Siteleaf Tester site
 timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+author: Craig Brett
 email: craigbrett17@aol.com
-description: This is literally just a test site. Google will probably never see this
-baseurl: 
-url: 
-twitter_username: nalagaric
-github_username: craigbrett17
+description: 'This is literally just a test site. Google will probably never see this'
 markdown: kramdown
